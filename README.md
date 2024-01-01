@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I'm currently maintaining [ff](https://github.com/8bitmcu/ff) (a minimal userChrome for Firefox) and a fork of [dmenu](https://github.com/8bitmcu/dmenu) (dynamic menu for X)
+- ⚡ I'm currently maintaining [ff](https://github.com/8bitmcu/ff) (a minimal userChrome for Firefox) and a forks of suckless utilities
 - 🔭 I'm currently working on my personal dotfiles. I may upload those at a certain point
 - 😄 I enjoy embedded programming and low level languages like C
 
