@@ -2,7 +2,7 @@
 
 - ⚡ I'm currently maintaining [ff](https://github.com/8bitmcu/ff) (a minimal userChrome for Firefox) and various forks of suckless utilities
 - 🔭 I'm currently working on my personal dotfiles. I may upload those at a certain point
-- 😄 I enjoy embedded programming and low level languages like C
+- 😄 I enjoy embedded programming, low level languages like C and 3D Printing
 
 ***
 
