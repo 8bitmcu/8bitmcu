@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=8bitmcu&locale=en&hide_title=true&layout=compact&card_width=350&langs_count=5&theme=transparent&hide_border=true" height="175" alt="languages graph"  />
 </div>
 
-<a href="https://gitroll.io/profile/uIeyNcCa4YTXw0yqCEKiSngrjUmR2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uIeyNcCa4YTXw0yqCEKiSngrjUmR2?theme=dracula" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uIeyNcCa4YTXw0yqCEKiSngrjUmR2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uIeyNcCa4YTXw0yqCEKiSngrjUmR2?theme=midnight" alt="GitRoll Profile Badge"/></a>
 
 ***
 
